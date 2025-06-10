@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1719246063 source:c:\users\user\desktop\trabajo practico topicos\tp\main.c
+	"tp.h"
+
+1719246526 c:\users\user\desktop\trabajo practico topicos\tp\tp.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1719246600 source:c:\users\user\desktop\trabajo practico topicos\tp\tp.c
+	"tp.h"
+
+1719253660 source:c:\users\juunp\desktop\topicos 24\trabajo practico topicos (1)\trabajo practico topicos\tp\main.c
+	"tp.h"
+
+1719255467 c:\users\juunp\desktop\topicos 24\trabajo practico topicos (1)\trabajo practico topicos\tp\tp.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1719256814 source:c:\users\juunp\desktop\topicos 24\trabajo practico topicos (1)\trabajo practico topicos\tp\tp.c
+	"tp.h"
+
+1719268726 source:c:\users\user\desktop\trabajo practico topicos (1)\trabajo practico topicos\tp\main.c
+	"tp.h"
+
+1719268540 c:\users\user\desktop\trabajo practico topicos (1)\trabajo practico topicos\tp\tp.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+
+1719270909 source:c:\users\user\desktop\trabajo practico topicos (1)\trabajo practico topicos\tp\tp.c
+	"tp.h"
+
+1719323325 source:c:\users\user\desktop\tp final\trabajo practico topicos\tp\tp.c
+	"tp.h"
+
+1719321716 c:\users\user\desktop\tp final\trabajo practico topicos\tp\tp.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+
+1719322651 source:c:\users\user\desktop\tp final\trabajo practico topicos\tp\main.c
+	"tp.h"
+
